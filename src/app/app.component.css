@@ -1,0 +1,17 @@
+.content {
+    height: 75vh;
+    margin-top: 1%;
+}
+
+.product-image {
+    float: left;
+}
+
+img {
+    height: 300px;
+}
+
+.product-description {
+    margin-left: 1%;
+    float: left;
+}
